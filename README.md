@@ -1,2 +1,2 @@
 # Lox
-Lox language implementation from Crafting Interpreters book
+Lox language implementation from Robert Nystrom's Crafting Interpreters book.
