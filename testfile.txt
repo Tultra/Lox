@@ -1,0 +1,4 @@
+/* mais um simbolo
+bem legal de usar
+pq é top */
+var nome = "Thiago Ultra"

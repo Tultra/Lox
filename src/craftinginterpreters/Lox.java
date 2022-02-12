@@ -18,8 +18,7 @@ public class Lox {
 			System.out.println("Usage: jlox [script]");
 			System.exit(64);
 		} else if ( args.length == 1) {
-			System.out.println("one Arg");
-			System.out.println(args);
+			runFile(args[0]);
 		} else {
 			//System.out.println("no Args");
 			runPrompt();
